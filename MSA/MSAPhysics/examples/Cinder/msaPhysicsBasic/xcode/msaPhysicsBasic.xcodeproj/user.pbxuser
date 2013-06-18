@@ -1,0 +1,119 @@
+// !$*UTF8*$!
+{
+	00BAE6590E7ED9C10018A608 /* msaPhysicsBasicApp.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {698, 5642}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 373}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = CE3E9B1115BA46AB005FA3EF /* msaPhysicsBasic */;
+		activeTarget = 8D1107260486CEB800E47090 /* msaPhysicsBasic */;
+		codeSenseManager = CE3E9B3915BA46DD005FA3EF /* Code sense */;
+		executables = (
+			CE3E9B1115BA46AB005FA3EF /* msaPhysicsBasic */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					341,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 364805357;
+			PBXWorkspaceStateSaveDate = 364805357;
+		};
+		perUserProjectItems = {
+			CEE4A26215BE671C00E958DA /* PBXTextBookmark */ = CEE4A26215BE671C00E958DA /* PBXTextBookmark */;
+			CEE4A45F15BE7CFA00E958DA /* PBXTextBookmark */ = CEE4A45F15BE7CFA00E958DA /* PBXTextBookmark */;
+		};
+		sourceControlManager = CE3E9B3815BA46DD005FA3EF /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	8D1107260486CEB800E47090 /* msaPhysicsBasic */ = {
+		activeExec = 0;
+		executables = (
+			CE3E9B1115BA46AB005FA3EF /* msaPhysicsBasic */,
+		);
+	};
+	CE3E9B1115BA46AB005FA3EF /* msaPhysicsBasic */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = msaPhysicsBasic;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	CE3E9B3815BA46DD005FA3EF /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	CE3E9B3915BA46DD005FA3EF /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	CEE4A26215BE671C00E958DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 00BAE6590E7ED9C10018A608 /* msaPhysicsBasicApp.cpp */;
+		name = "msaPhysicsBasicApp.cpp: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 374;
+		vrLoc = 0;
+	};
+	CEE4A45F15BE7CFA00E958DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 00BAE6590E7ED9C10018A608 /* msaPhysicsBasicApp.cpp */;
+		name = "msaPhysicsBasicApp.cpp: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 373;
+		vrLoc = 0;
+	};
+}

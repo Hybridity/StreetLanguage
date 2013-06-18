@@ -1,0 +1,30 @@
+<controls>
+    <SliderInt_Step>
+        <name>Step</name>
+        <value>20</value>
+    </SliderInt_Step>
+    <SliderInt_Min_Depth>
+        <name>Min Depth</name>
+        <value>100</value>
+    </SliderInt_Min_Depth>
+    <SliderInt_Max_Depth>
+        <name>Max Depth</name>
+        <value>2000</value>
+    </SliderInt_Max_Depth>
+    <SliderFloat_Rotation_Speed>
+        <name>Rotation Speed</name>
+        <value>0</value>
+    </SliderFloat_Rotation_Speed>
+    <SliderInt_Radius>
+        <name>Radius</name>
+        <value>20</value>
+    </SliderInt_Radius>
+    <SliderFloat_MinBounce>
+        <name>MinBounce</name>
+        <value>0.2</value>
+    </SliderFloat_MinBounce>
+    <SliderFloat_MaxBounce>
+        <name>MaxBounce</name>
+        <value>0.7</value>
+    </SliderFloat_MaxBounce>
+</controls>
